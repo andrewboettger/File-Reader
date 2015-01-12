@@ -1,0 +1,1 @@
+A short program I created in C# demonstrating file I/O. Reads a text file, "StrategicPlan.txt".
